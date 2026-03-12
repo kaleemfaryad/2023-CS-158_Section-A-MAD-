@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override gradient colors for dark mode -->
+    <color name="gradient_start">#2d3436</color>
+    <color name="gradient_end">#000000</color>
+
+    <color name="primary_light">#a29bfe</color>
+</resources>
